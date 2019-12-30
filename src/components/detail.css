@@ -1,0 +1,24 @@
+.box{
+    padding: 0.3rem;
+    margin: 0 auto;
+    background-color: rgb(127, 118, 109);
+}
+.header{
+    display: flex;
+
+}
+.mes{
+    margin:  0.3rem;
+    color: #fff;
+}
+h2{
+    padding: 0.2rem 0;
+}
+.mes span{
+display: block;
+margin-bottom: 0.1rem;
+}
+.mes i{
+    font-size: 0.22rem;
+    color: rgba(255,255,255,0.7);
+}

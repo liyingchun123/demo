@@ -1,0 +1,25 @@
+ul{
+    display: flex;
+    flex-wrap: wrap;
+}
+li{
+    padding: 0.1rem;
+}
+img{
+    width: 2.16rem;
+    height: 3.02rem;
+    border-radius: 0.08rem;
+}
+.img_message{
+    display: flex;
+    justify-content: space-between;
+    padding: 0.2rem;
+}
+.img_message span{
+font-size: 0.26rem;
+
+}
+.img_message i{
+    font-size: 0.24rem;
+    color: rgba(0,0,0,.5);
+}

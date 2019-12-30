@@ -1,0 +1,36 @@
+ul{
+    display: flex;
+    flex-wrap: wrap;
+}
+li{
+    padding: 0.1rem;
+}
+img{
+    width: 2.16rem;
+    height: 3.02rem;
+    border-radius: 0.08rem;
+}
+.img_message{
+    height: 1.2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 0.2rem;
+}
+.img_message span{
+font-size: 0.26rem;
+}
+.img_message i{
+    font-size: 0.24rem;
+    color: rgba(0,0,0,.5);
+}
+.date{
+    font-size: 0.26rem;
+    color: red;
+    border: 1px solid red;
+    text-align: center;
+    width: 1.2rem;
+    height: 0.4rem;
+    line-height: 0.4rem;
+
+}
